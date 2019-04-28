@@ -1,0 +1,20 @@
+html,body,h1,h2,h3,h4,h5,h6 {
+    font-family: "georgia";
+}
+
+.formulaire_accueil{
+
+	display: flex;
+	justify-content: center;
+	margin-bottom: 70px;
+	margin-top: 70px;
+}
+
+.w3-input{
+
+	width: 400px;
+}
+#bouton_connexion_et_sinscrire{
+
+	margin-top: 200px;
+}
